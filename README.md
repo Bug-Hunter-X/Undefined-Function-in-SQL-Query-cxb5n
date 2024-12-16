@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries: calling an undefined function. The `bug.sql` file contains a query that attempts to use a non-existent function.  The solution (`bugSolution.sql`) shows how to resolve the issue, either by creating the function, correcting the function name, granting access, or adjusting the schema.
